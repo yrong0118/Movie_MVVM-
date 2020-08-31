@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieDB_MVVM</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="find">Find</string>
+    <string name="save">Save</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_fullscore_rating"> / 10</string>
+    <string name="movie_description_title">Movie Description</string>
+    <string name="movie_description">This is Movie Description Detail This is Movie Description Detail This is Movie Description Detail This is Movie Description Detail </string>
+    <string name="language">en-US</string>
+
+    <string name="page">15</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

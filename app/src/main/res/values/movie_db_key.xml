@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_db_KEY">9891ae29d56fc4aa077963ccf6286f21</string>
+    <!--    <string name="authorization">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5ODkxYWUyOWQ1NmZjNGFhMDc3OTYzY2NmNjI4NmYyMSIsInN1YiI6IjVlNGEwMTM0MzU4MTFkMDAxOTQ5MzE4YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.uSQGNRCQmi0J706BbL_aROl4LNOn_VBoOmjJ25_gwFA=</string>-->
+    <string name="Content_Type">application/json;charset=utf-8</string>
+</resources>
